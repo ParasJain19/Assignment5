@@ -55,7 +55,6 @@ A convergence graph was generated for the **best model configuration**, showing 
 - **Y-axis**: Accuracy on test set (%)
 - **Model**: Best-performing SVR from 10 experiments
 
-![Convergence Graph](svm_convergence_graph.png)
 
 > 🧠 Observation: Accuracy improves rapidly in the initial stages and then gradually stabilizes.
 
